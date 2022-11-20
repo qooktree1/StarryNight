@@ -74,6 +74,7 @@
 - NGINX 1.23.2
 - SSL 인증서
 - MySQL
+- gabia
 
 ---
 
