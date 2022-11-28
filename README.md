@@ -347,27 +347,27 @@ backend
 
 ### 신화 게임
 
-![virgo.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2c114a1-00ca-4692-a49a-81ecd8388bd7/virgo.gif)
+![virgo](/uploads/028d32b9f5b2d62b8056e7cb9a85de53/virgo.gif)
 
 - 처녀자리 - 물체와 상호작용
 
-![quest.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77bae4c7-57a5-4cbb-a370-0b499a808734/quest.gif)
+![quest](/uploads/742e9e0886368eb39db53fe3a135a7d9/quest.gif)
 
 - 별자리 신화 관련 퀘스트
 
-![lion.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eef1124c-c226-4a2f-b9e2-406764f03770/lion.gif)
+![lion](/uploads/e1a013b5e69b6ab08db605228afebff7/lion.gif)
 
 - 사자자리 - 미니게임(전투)
 
-![perseus.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/881c8224-77c0-4208-86b6-1881a47c5b1f/perseus.gif)
+![perseus](/uploads/5e9f3b26b40078ddf00f9d621278b4dd/perseus.gif)
 
 - 페르세우스자리 - 미니게임(공포게임)
 
-![cassiopeia.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0bc6dc8b-1b83-4927-9a7c-89917d194fd3/cassiopeia.gif)
+![cassiopeia](/uploads/3e7385ab5bdeef97d93b477ff6dcc456/cassiopeia.gif)
 
 - 카시오페이아자리 - 미니게임(미로)
 
-![lyra.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/efb284ac-1bba-4a7a-ae8a-bb635387c2c9/lyra.gif)
+![lyra](/uploads/3865d2c12ae05752f82bba20cc2a42a1/lyra.gif)
 
 - 거문고자리 - 미니게임(점프맵)
 
