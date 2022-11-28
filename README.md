@@ -320,28 +320,28 @@ backend
 
 ### 다락방
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e663cab-b60d-4bf3-8d05-13ec3813ef83/Untitled.png)
+![main-room](/uploads/27787d048081c06494a0d20eabd970b2/main-room.png)
 
 - 메인 서비스 3가지를 이용할 수 있음
     - **신화 게임**
     - **밤하늘 보기**
     - **방 꾸미기**
 
-![other-room.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ff0c9ae-5175-4418-8095-165622082edc/other-room.gif)
+![other-room](/uploads/246f2baaba301919102cc65b45f57d18/other-room.gif)
 
 - **유성 타기** - 다른 사용자들의 다락방을 구경할 수 있음
 
 ### 책 펼치기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abed8528-96e4-424b-a763-625fbb0b9e29/Untitled.png)
+![book](/uploads/73ed08fcb0147b67b8096a8a4c4b85ab/book.png)
 
 - 책 펼치기 - 신화 게임들을 플레이할 수 있는 공간
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b90ea3d0-eada-4b76-be10-ea0cac1865f6/Untitled.png)
+![readMyth](/uploads/668ecb96432467d6c06c221343846738/readMyth.png)
 
 - 신화 읽기 - 클리어한 신화 게임의 별자리에 대한 정보들을 제공
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36dce1fa-336d-48c0-b982-d1c6c6794787/Untitled.png)
+![tutorial](/uploads/5c8839b9ed1bf1fbeeb6ed63181c4050/tutorial.png)
 
 - 튜토리얼 - 신화 게임의 조작법을 설명하는 게임 가이드
 
