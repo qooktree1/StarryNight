@@ -298,23 +298,23 @@ backend
 
 ### 메인페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a72e7d46-96d8-4bda-a472-2acf71f4fa05/Untitled.png)
+![mainpage](/uploads/7cd68ded6bb71e450a40d0bb98f74336/mainpage.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/322bcff3-ab80-4570-ba63-fcdfba22269e/Untitled.png)
+![mainpage2](/uploads/6d047ba95aeaadc900504cd816d66554/mainpage2.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f75e50c-47d6-456b-b5d4-32b147e04c96/Untitled.png)
+![mainpage3](/uploads/9054ad229e1386b4d841100c5d4817bd/mainpage3.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1c65afd-905f-431e-a2e6-2f448a5239fd/Untitled.png)
+![mainpage4](/uploads/a0fb4151d359aba30745d2033a093a9c/mainpage4.png)
 
-![quest](/uploads/52a36915c33dcefcf7f4acf6cde67729/quest.gif)
+![mainpage5](/uploads/3048a0a23ddff1dcf924085bc3097ad8/mainpage5.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55323fbb-cce3-4e8f-9d81-f567e3ff2f7a/Untitled.png)
+![mainpage6](/uploads/aab65e455a8d680581de420ee0d4a7b0/mainpage6.png)
 
 - Starry Night에서 제공하는 서비스들을 한눈에 볼 수 있습니다.
 
 ### 로그인
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1c7a8e50-e374-448f-b71c-e9c61141aa73/Untitled.png)
+![login](/uploads/b9b50f944c169c57ce7145990ce03ab0/login.png)
 
 - 카카오 & 구글 소셜 로그인을 제공
 
