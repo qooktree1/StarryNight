@@ -373,38 +373,38 @@ backend
 
 ### 밤하늘 보기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cda5d8af-e39b-4a29-9069-ee05271e0373/Untitled.png)
+![1](/uploads/08afb07d1ef881dbe263498f394bdb7f/1.png)
 
 - PC로 별 보기 / VR로 별 보기 - 2가지 모드로 플레이 가능
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22a8ec70-d495-4476-b4ba-736b1ee2a3de/Untitled.png)
+![2](/uploads/ec7c0a8f6fca15f36c10fd579799abfd/2.png)
 
 - 튜토리얼 - (다운로드, 컨텐츠 소개, 조작 방법)에 관련된 정보를 사용자에게 제공)
 
-![firework.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78068fff-623a-4cda-9fdb-9fa6bc4f07ac/firework.gif)
+![firework](/uploads/680dfb739a465c0693b5449bfa004264/firework.gif)
 
 - 불꽃 놀이
 
-![star-item.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1c2d700d-822a-4cfc-a6e8-6aabf35df9b8/star-item.gif)
+![star-item](/uploads/75cc604a25e572a70e309a6fc5bbeda1/star-item.gif)
 
 - 스타(아이템) 획득을 통한 특수능력 부여
 
-![change-star.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40ef00e2-f7de-4efa-abf9-a3bb8e134b45/change-star.gif)
+![change-star](/uploads/445bd25a95da5dc82b703f77fd86d9a4/change-star.gif)
 
 - 도시 변경으로 별자리 위치 변경
 
-![star-information.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c8a9b86-b40e-42a3-9439-2ad6fe22da0e/star-information.gif)
+![star-information](/uploads/c55f6dfa6b69417f825516f574022d7e/star-information.gif)
 
 - 별을 클릭하여 별의 자세한 정보 확인
 
 ### 상점 가기
 
-![shop-buy.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42ef3352-45cc-485f-bb99-de51117fa66c/shop-buy.gif)
+![shop-buy](/uploads/2e0b7578f9a116e028b0f318c7652ddf/shop-buy.gif)
 
 - 신화 게임에서 얻은 재화로 방을 꾸밀 수 있는 아이템을 구매 가능
 
 ### 방 꾸미기
 
-![change-room.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3a831a2-30f5-417f-a22d-a148c982273a/change-room.gif)
+![change-room](/uploads/e66653a25938956556985fe72789500b/change-room.gif)
 
 - 구매한 가구를 이용하여 자신의 다락방을 꾸밀 수 있습니다.
