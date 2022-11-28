@@ -306,7 +306,7 @@ backend
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1c65afd-905f-431e-a2e6-2f448a5239fd/Untitled.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b86f02a-68cc-47cf-83c9-b24cd99824e7/Untitled.png)
+![quest](/uploads/52a36915c33dcefcf7f4acf6cde67729/quest.gif)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55323fbb-cce3-4e8f-9d81-f567e3ff2f7a/Untitled.png)
 
