@@ -391,10 +391,15 @@ backend
 
 ![change-star](/uploads/445bd25a95da5dc82b703f77fd86d9a4/change-star.gif)
 
+![selectCity](/uploads/8d2460f8c344393cf11e88f4a6f6f55e/selectCity.gif)
+
 - 도시 변경으로 별자리 위치 변경
 
-![star-information](/uploads/c55f6dfa6b69417f825516f574022d7e/star-information.gif)
+![onOffInfo](/uploads/d61f278c77c7384a46bf968d586b9f1a/onOffInfo.gif)
 
+- 별자리 정보 ON/OFF
+
+![star-information](/uploads/c55f6dfa6b69417f825516f574022d7e/star-information.gif)
 
 - 별을 클릭하여 별의 자세한 정보 확인
 
