@@ -395,7 +395,7 @@ backend
 
 - 도시 변경으로 별자리 위치 변경
 
-![onOffInfo](/uploads/d61f278c77c7384a46bf968d586b9f1a/onOffInfo.gif)
+![onOffInfo](https://user-images.githubusercontent.com/97735859/209304637-7b82f43a-59be-4e5c-b1c0-b2ad979aa57d.gif)
 
 - 별자리 정보 ON/OFF
 
