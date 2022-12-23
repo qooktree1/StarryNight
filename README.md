@@ -298,98 +298,98 @@ backend
 
 ### 메인페이지
 
-![mainpage](/uploads/7cd68ded6bb71e450a40d0bb98f74336/mainpage.png)
+![mainpage](https://user-images.githubusercontent.com/97735859/209301657-a35a3753-7012-41fb-8c26-a665bb6a7b8f.png)
 
-![mainpage2](/uploads/6d047ba95aeaadc900504cd816d66554/mainpage2.png)
+![mainpage2](https://user-images.githubusercontent.com/97735859/209301691-77da9c60-c8df-43b6-a8d8-3669693c6a65.png)
 
-![mainpage3](/uploads/9054ad229e1386b4d841100c5d4817bd/mainpage3.png)
+![mainpage3](https://user-images.githubusercontent.com/97735859/209301726-4d6d29d7-6306-4515-b8d7-d5e4c39aca8d.png)
 
-![mainpage4](/uploads/a0fb4151d359aba30745d2033a093a9c/mainpage4.png)
+![mainpage4](https://user-images.githubusercontent.com/97735859/209301748-9ce2484a-0119-4d36-8468-f146c5aa53b4.png)
 
-![mainpage5](/uploads/3048a0a23ddff1dcf924085bc3097ad8/mainpage5.png)
+![mainpage5](https://user-images.githubusercontent.com/97735859/209301752-6505bad3-ec1b-4b1b-81b3-b5881d6ecc9a.png)
 
-![mainpage6](/uploads/aab65e455a8d680581de420ee0d4a7b0/mainpage6.png)
+![mainpage6](https://user-images.githubusercontent.com/97735859/209301791-eea94640-7dbd-48fd-b302-0a0c24e43b77.png)
 
 - Starry Night에서 제공하는 서비스들을 한눈에 볼 수 있습니다.
 
 ### 로그인
 
-![login](/uploads/b9b50f944c169c57ce7145990ce03ab0/login.png)
+![login](https://user-images.githubusercontent.com/97735859/209301822-08fbc7cf-852d-4166-ac27-2315a47d87cd.png)
 
 - 카카오 & 구글 소셜 로그인을 제공
 
 ### 다락방
 
-![main-room](/uploads/27787d048081c06494a0d20eabd970b2/main-room.png)
+![main-room](https://user-images.githubusercontent.com/97735859/209301842-e0f9e5a9-bdf1-4fe7-95fa-073c1a44085e.png)
 
 - 메인 서비스 3가지를 이용할 수 있음
     - **신화 게임**
     - **밤하늘 보기**
     - **방 꾸미기**
 
-![other-room](/uploads/246f2baaba301919102cc65b45f57d18/other-room.gif)
+![other-room](https://user-images.githubusercontent.com/97735859/209301878-296e9d67-c677-4cd8-904e-8a271914dc68.gif)
 
 - **유성 타기** - 다른 사용자들의 다락방을 구경할 수 있음
 
 ### 책 펼치기
 
-![book](/uploads/73ed08fcb0147b67b8096a8a4c4b85ab/book.png)
+![book](https://user-images.githubusercontent.com/97735859/209301913-1511544a-69ca-4505-ad07-13546c0145d5.png)
 
 - 책 펼치기 - 신화 게임들을 플레이할 수 있는 공간
 
-![readMyth](/uploads/668ecb96432467d6c06c221343846738/readMyth.png)
+![readMyth](https://user-images.githubusercontent.com/97735859/209301922-734a663d-99bf-4541-9af4-2d0cd742d888.png)
 
 - 신화 읽기 - 클리어한 신화 게임의 별자리에 대한 정보들을 제공
 
-![tutorial](/uploads/5c8839b9ed1bf1fbeeb6ed63181c4050/tutorial.png)
+![tutorial](https://user-images.githubusercontent.com/97735859/209301968-fa11a2b8-37bd-4dca-8f15-f8709f94e12c.png)
 
 - 튜토리얼 - 신화 게임의 조작법을 설명하는 게임 가이드
 
 ### 신화 게임
 
-![virgo](/uploads/028d32b9f5b2d62b8056e7cb9a85de53/virgo.gif)
+![virgo](https://user-images.githubusercontent.com/97735859/209301974-b2ee5b64-dbd8-4074-9365-6f7c2fc80232.gif)
 
 - 처녀자리 - 물체와 상호작용
 
-![quest](/uploads/742e9e0886368eb39db53fe3a135a7d9/quest.gif)
+![quest](https://user-images.githubusercontent.com/97735859/209302027-1f9b249a-c926-44d8-8ac5-48670eb3c4d8.gif)
 
 - 별자리 신화 관련 퀘스트
 
-![lion](/uploads/e1a013b5e69b6ab08db605228afebff7/lion.gif)
+![lion](https://user-images.githubusercontent.com/97735859/209302031-53f2e797-a672-4b02-8305-709d867ca36c.gif)
 
 - 사자자리 - 미니게임(전투)
 
-![perseus](/uploads/5e9f3b26b40078ddf00f9d621278b4dd/perseus.gif)
+![perseus](https://user-images.githubusercontent.com/97735859/209302084-e220b9f4-f6cf-4f57-831e-26adf82e9814.gif)
 
 - 페르세우스자리 - 미니게임(공포게임)
 
-![cassiopeia](/uploads/3e7385ab5bdeef97d93b477ff6dcc456/cassiopeia.gif)
+![cassiopeia](https://user-images.githubusercontent.com/97735859/209302086-d08927b2-cc9e-4ae2-9c9e-ebdc3ffdb222.gif)
 
 - 카시오페이아자리 - 미니게임(미로)
 
-![lyra](/uploads/3865d2c12ae05752f82bba20cc2a42a1/lyra.gif)
+![lyra](https://user-images.githubusercontent.com/97735859/209302146-4d77e49e-0530-4bfa-b28a-638e0cf50739.gif)
 
 - 거문고자리 - 미니게임(점프맵)
 
 ### 밤하늘 보기
 
-![1](/uploads/08afb07d1ef881dbe263498f394bdb7f/1.png)
+![1](https://user-images.githubusercontent.com/97735859/209302151-dda633dd-4e38-4885-ab2f-d8a42fe08a4c.png)
 
 - PC로 별 보기 / VR로 별 보기 - 2가지 모드로 플레이 가능
 
-![2](/uploads/ec7c0a8f6fca15f36c10fd579799abfd/2.png)
+![2](https://user-images.githubusercontent.com/97735859/209302211-52d04192-c46b-4bf9-b764-b2fba2e74222.png)
 
 - 튜토리얼 - (다운로드, 컨텐츠 소개, 조작 방법)에 관련된 정보를 사용자에게 제공)
 
-![firework](/uploads/680dfb739a465c0693b5449bfa004264/firework.gif)
+![firework](https://user-images.githubusercontent.com/97735859/209302218-44a14244-3bc7-40cf-aa5f-937bf720fb7e.gif)
 
 - 불꽃 놀이
 
-![star-item](/uploads/75cc604a25e572a70e309a6fc5bbeda1/star-item.gif)
+![star-item](https://user-images.githubusercontent.com/97735859/209302259-528cf733-394c-48a8-a81c-6050c4ac0c7a.gif)
 
 - 스타(아이템) 획득을 통한 특수능력 부여
 
-![change-star](/uploads/445bd25a95da5dc82b703f77fd86d9a4/change-star.gif)
+![change-star](https://user-images.githubusercontent.com/97735859/209302263-3008d38d-9705-4147-acb9-fb68e1e296c5.gif)
 
 ![selectCity](/uploads/8d2460f8c344393cf11e88f4a6f6f55e/selectCity.gif)
 
@@ -399,18 +399,18 @@ backend
 
 - 별자리 정보 ON/OFF
 
-![star-information](/uploads/c55f6dfa6b69417f825516f574022d7e/star-information.gif)
+![star-information](https://user-images.githubusercontent.com/97735859/209302348-d1a7d175-d7e6-40a7-b387-eaede2bd64b0.gif)
 
 - 별을 클릭하여 별의 자세한 정보 확인
 
 ### 상점 가기
 
-![shop-buy](/uploads/2e0b7578f9a116e028b0f318c7652ddf/shop-buy.gif)
+![shop-buy](https://user-images.githubusercontent.com/97735859/209302389-7cea8f0b-5fb0-4ffd-a884-051af2cb9d1b.gif)
 
 - 신화 게임에서 얻은 재화로 방을 꾸밀 수 있는 아이템을 구매 가능
 
 ### 방 꾸미기
 
-![change-room](/uploads/e66653a25938956556985fe72789500b/change-room.gif)
+![change-room](https://user-images.githubusercontent.com/97735859/209302457-f923d7ec-9463-47c3-9775-3510f817f940.gif)
 
 - 구매한 가구를 이용하여 자신의 다락방을 꾸밀 수 있습니다.
