@@ -391,7 +391,7 @@ backend
 
 ![change-star](https://user-images.githubusercontent.com/97735859/209302263-3008d38d-9705-4147-acb9-fb68e1e296c5.gif)
 
-![selectCity](/uploads/8d2460f8c344393cf11e88f4a6f6f55e/selectCity.gif)
+![selectCity](https://user-images.githubusercontent.com/97735859/209304175-249be032-b345-412d-afa0-72b5a77545b2.gif)
 
 - 도시 변경으로 별자리 위치 변경
 
