@@ -4,7 +4,7 @@
 
 ## **[Starry Night 링크](https://starry-night.kr/)**
 
-## **[UCC 링크 - 소개 영상 보기](https://www.youtube.com/watch?v=eVtlH42FHsQ)**
+## **[UCC 링크 - 소개 영상 보기](https://www.youtube.com/watch?v=hxns35BEqVU)**
 
 ---
 
